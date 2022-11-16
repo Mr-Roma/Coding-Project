@@ -49,7 +49,7 @@
                     <div class="card-body text-dark" style="text-align: justify ;" class="caption">
                         <h5 class="card-title">Introdusaun</h5>
                         <p class="card-text"><b>Sistema GIS (Geografical Information System) konaba eskola sira iha Suku Bairo-Pite </b> ida ne'e nu'udar aplikasaun
-                            ne'ebe ami estudante <b>DEI (Departamentu Informatika UNTL)</b> kria nu'udar webiste ida ba iha ami nia traballu final ba projetu traballu Base Dados nian
+                            ne'ebe hau<b>Romario Gajog</b> kria nu'udar webiste ida ba iha nuudar eksperimentasaun projetu traballu Base Dados nian
                             Iha website ne'e ami kria hodi fornese informasaun ba lokalizasaun eskola ne'ebe eziste iha suku Biro-Pite no mos dadus Populasaun ne'ebe kompostuhusi
                             mestre no alunos sira, nune'e mos ami aserta mos ho kondisaun eskola nian ne'ebe akumula iha grafiku chart nian husi dadus ne'ebe ita input.</p>
                     </div>
