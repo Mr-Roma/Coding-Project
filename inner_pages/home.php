@@ -15,22 +15,22 @@
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="imajen/mapa.jpg" alt="First slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Informasaun Konaba Mapa</h5>
-                            <p>Ajuda fo sai lokalizasaun husi eskola sira liu husi grafiku mapa.</p>
+                            <h5>Maps Information</h5>
+                            <p>Helps to show all of the school's localization in the maps.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="imajen/school.jpg" alt="Second slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Fornese Informasaun sira konaba Eskola</h5>
-                            <p>Ajuda fasilita informasaun konaba eskola ne'ebe relata ba populasaun no kondisaun.</p>
+                            <h5>Provide school's Information</h5>
+                            <p>Helps to facilitate the Information regarding to school's condition and levels.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="imajen/aluno.jpg" alt="Third slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Artigu konaba Eskola</h5>
-                            <p>Fornese artigu konaba eskola ne'ebe relata ba istoria no aktividade husi eskola refere.</p>
+                            <h5>School's articles</h5>
+                            <p>Provide information regarding to school's previous activities.</p>
                         </div>
                     </div>
                 </div>
@@ -43,15 +43,14 @@
                     <span class="visually-hidden"> Next </span>
                 </button>
             </div>
-            <h2 class="text-center py-4 mt-2">Konaba Sistema</h2>
+            <h2 class="text-center py-4 mt-2">About the sistem</h2>
             <div class="container">
                 <div class="card mb-3" style="width: 100%; border: solid black 2px ">
                     <div class="card-body text-dark" style="text-align: justify ;" class="caption">
-                        <h5 class="card-title">Introdusaun</h5>
-                        <p class="card-text"><b>Sistema GIS (Geografical Information System) konaba eskola sira iha Suku Bairo-Pite </b> ida ne'e nu'udar aplikasaun
-                            ne'ebe hau<b>Romario Gajog</b> kria nu'udar webiste ida ba iha nuudar eksperimentasaun projetu traballu Base Dados nian
-                            Iha website ne'e ami kria hodi fornese informasaun ba lokalizasaun eskola ne'ebe eziste iha suku Biro-Pite no mos dadus Populasaun ne'ebe kompostuhusi
-                            mestre no alunos sira, nune'e mos ami aserta mos ho kondisaun eskola nian ne'ebe akumula iha grafiku chart nian husi dadus ne'ebe ita input.</p>
+                        <h5 class="card-title">Introduction</h5>
+                        <p class="card-text"><b>GIS Sistem, (Geografical Information System) regarding to all of the school's in Bairo-Pite Village in Timor-Leste </b> It is the application that I<b>Romario Gajog</b>creates as a project experimentation of data bases. 
+                            In this website I provide the information regarding to school localization, that exist in Bairo-Pite village and also the data of the population, 
+                            teachers and also the student, I also gonna attach the information regarding to school's condition that already acumulate in the graphic chart form the data that I input.</p>
                     </div>
                 </div>
             </div>
